@@ -29,6 +29,7 @@
             <label for="civilite">
                 Civilité :
                 <select name="civilite" id="civilite">
+                    <option disabled selected>Sélectionner</option>
                     <option value="Mr">Monsieur</option>
                     <option value="Mme">Madame</option>
                 </select>
